@@ -1,6 +1,6 @@
 # tax
 
-FIXME: my new application.
+FIXME: we don't really do very much that is worthwhile - may be we will someday. or not.
 
 ## Installation
 
